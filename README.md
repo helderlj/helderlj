@@ -3,7 +3,7 @@
 
 ### I'm a Husband, Pet Tutor, Developer, and a Friend!!
 
-- 🔭 Currently I'm a I.T Coordinator at [Graphis][company]!
+- 🔭 Currently I'm I.T Coordinator at [Graphis][company]!
 - 🌱 I’m currently learning Angular 
 - 🥅 2021 Goals: Be more productive as a developer, learn a different thing each day, take my current projects to the next level
 - ⚡ Fun fact: I'm a 3D printing entusiast and a horror movies fan 🧛‍♂️
