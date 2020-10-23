@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Pet Tutor, Developer, and a Friend!!
 
-- 🔭 Currently I'm a I.T Coordinator at [company]!
+- 🔭 Currently I'm a I.T Coordinator at Graphis[company]!
 - 🌱 I’m currently learning Angular 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Be more productive as a developer, learn a different thing each day, take my current projects to the next level
@@ -66,7 +66,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="helderlj's GitHub Stats" src="https://github-readme-stats.helderlj.vercel.app/api?username=helderlj&show_icons=true&hide_border=true" />
 
 </details>
 
