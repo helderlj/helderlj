@@ -46,6 +46,8 @@
   
 <!--START_SECTION:activity-->
 1. 💪 Completed a CRUD project in Angular 10 (https://github.com/helderlj/Angular10-crud-cod3r)
+2. 💪 Completed a CRUD project in Laravel 8 With Tailwind Css (https://github.com/helderlj/curso-laravel-8)
+3. 💪 Marking a cool blog in Laravel 8 With Tailwind Css (https://github.com/helderlj/lara-blog)
 <!--END_SECTION:activity-->
 
 </details>
