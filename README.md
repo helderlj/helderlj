@@ -24,7 +24,14 @@
 ### Languages and Tools:
 
 <img align="left" alt="Php" width="26px" src="https://user-images.githubusercontent.com/33905714/97006912-f17e9280-1516-11eb-8139-34091cae00f9.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Laravel" width="26px" src="https://private-user-images.githubusercontent.com/25181517/276620225-afcf1c98-544e-41fb-bf44-edba5e62809a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NDQ2ODUsIm5iZiI6MTcwNzc0NDM4NSwicGF0aCI6Ii8yNTE4MTUxNy8yNzY2MjAyMjUtYWZjZjFjOTgtNTQ0ZS00MWZiLWJmNDQtZWRiYTVlNjI4MDlhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEyVDEzMjYyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiZGM1NTZhYjJiMWQ3YjllMzc3Y2QzZTczMzMwYjAzYmU4YWE5NDkyNTVmMDQ2NjhlMDA2NzE3NzJiNzFhODkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xxhI6ZBYdR_g10Yqhzj2lrN4MhRDXCOY5AzkTQV0XV0" />
+<img align="left" alt="Livewire" width="26px" src="https://laravel-livewire.com/img/twitter.png" />
+<img align="left" alt="AlpineJs" width="26px" src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4" />
+<img align="left" alt="TailwindCss" width="26px" src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/7443/course_7443_image.jpg" />
+
+<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png" />
+<img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" />
+
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
