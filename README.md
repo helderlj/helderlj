@@ -24,6 +24,10 @@
 ### Languages and Tools:
 
 <img align="left" alt="Php" width="26px" src="https://user-images.githubusercontent.com/33905714/97006912-f17e9280-1516-11eb-8139-34091cae00f9.png" />
+<img align="left" alt="Laravel" width="26px" src="https://private-user-images.githubusercontent.com/33905714/304099779-88c40cb5-dec4-44dd-9df3-af97e943b8bf.png" />
+<img align="left" alt="Livewire" width="26px" src="https://private-user-images.githubusercontent.com/33905714/304097522-52ff5710-1c21-4b14-9aac-b25775efdc82.png" />
+<img align="left" alt="AlpineJS" width="26px" src="https://private-user-images.githubusercontent.com/33905714/304098092-02a53aec-127d-4259-869a-a9f48927ea66.png" />
+<img align="left" alt="Tailwind Css" width="26px" src="https://private-user-images.githubusercontent.com/33905714/304099325-da83f593-df0d-44ed-8f18-acf67cf32c8f.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -33,7 +37,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
+https://github.com/helderlj/helderlj/assets/33905714/8bec5943-2c3c-4f79-b8bc-4a8b1dabcb98
 
 <br />
 <br />
