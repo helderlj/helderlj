@@ -4,7 +4,7 @@
 ### I'm a Husband, Pet Tutor, Developer, and a Friend!!
 
 - 🔭 Currently I'm I.T Coordinator at [Graphis][company]!
-- 🌱 I’m currently learning Laravel, Vue.js and some other stuff
+- 🌱 I’m currently learning Flutter
 - 🥅 2024 Goals: Be more productive as a developer, learn a different thing each day, spend less time procrastinating things
 - ⚡ Fun fact: I'm a 3D printing entusiast and a horror movies fan 🧛‍♂️
 
